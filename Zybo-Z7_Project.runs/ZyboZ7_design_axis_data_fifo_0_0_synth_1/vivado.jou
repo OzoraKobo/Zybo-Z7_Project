@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Jan 11 11:24:32 2024
+# Process ID: 13444
+# Current directory: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/ZyboZ7_design_axis_data_fifo_0_0_synth_1
+# Command line: vivado -log ZyboZ7_design_axis_data_fifo_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ZyboZ7_design_axis_data_fifo_0_0.tcl
+# Log file: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/ZyboZ7_design_axis_data_fifo_0_0_synth_1/ZyboZ7_design_axis_data_fifo_0_0.vds
+# Journal file: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/ZyboZ7_design_axis_data_fifo_0_0_synth_1/vivado.jou
+# Running On: DESKTOP-H3CE8QA, OS: Linux, CPU Frequency: 3600.057 MHz, CPU Physical cores: 12, Host memory: 16732 MB
+#-----------------------------------------------------------
+source ZyboZ7_design_axis_data_fifo_0_0.tcl -notrace

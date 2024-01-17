@@ -1,0 +1,45 @@
+12:29:29 DEBUG : Logs will be stored at '/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/IDE.log'.
+12:29:30 INFO  : Launching XSCT server: xsct -n  -interactive /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/temp_xsdb_launch_script.tcl
+12:29:30 INFO  : Registering command handlers for Vitis TCF services
+12:29:31 INFO  : Platform repository initialization has completed.
+12:29:33 INFO  : XSCT server has started successfully.
+12:29:34 INFO  : plnx-install-location is set to ''
+12:29:34 INFO  : Successfully done setting XSCT server connection channel  
+12:29:34 INFO  : Successfully done query RDI_DATADIR 
+12:29:34 INFO  : Successfully done setting workspace for the tool. 
+12:33:52 INFO  : Result from executing command 'getProjects': ZyboZ7_Project
+12:33:52 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:35:47 INFO  : Platform 'ZyboZ7_Project' is added to custom repositories.
+12:36:04 INFO  : Result from executing command 'getProjects': ZyboZ7_Project
+12:36:04 INFO  : Result from executing command 'getPlatforms': ZyboZ7_Project|/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_Project/export/ZyboZ7_Project/ZyboZ7_Project.xpfm;xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:37:06 INFO  : Result from executing command 'removePlatformRepo': 
+12:37:31 INFO  : Result from executing command 'getProjects': ZyboZ7_Project
+12:37:31 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:42:42 INFO  : Result from executing command 'getProjects': ZyboZ7_DMA_Platform
+12:42:42 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:45:33 INFO  : Result from executing command 'getProjects': ZyboZ7_DMA_Platform
+12:45:33 INFO  : Result from executing command 'getPlatforms': xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:46:21 INFO  : Result from executing command 'getProjects': ZyboZ7_DMA_Platform
+12:46:21 INFO  : Result from executing command 'getPlatforms': ZyboZ7_DMA_Platform|/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/ZyboZ7_DMA_Platform.xpfm;xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+12:47:12 INFO  : Result from executing command 'getProjects': ZyboZ7_DMA_Platform
+12:47:12 INFO  : Result from executing command 'getPlatforms': ZyboZ7_DMA_Platform|/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/ZyboZ7_DMA_Platform.xpfm;xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm
+16:55:01 DEBUG : Logs will be stored at '/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/IDE.log'.
+16:55:02 INFO  : Launching XSCT server: xsct -n  -interactive /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/temp_xsdb_launch_script.tcl
+16:55:04 INFO  : Platform repository initialization has completed.
+16:55:04 INFO  : Registering command handlers for Vitis TCF services
+16:55:05 INFO  : XSCT server has started successfully.
+16:55:05 INFO  : plnx-install-location is set to ''
+16:55:06 INFO  : Successfully done setting XSCT server connection channel  
+16:55:06 INFO  : Successfully done query RDI_DATADIR 
+16:55:06 INFO  : Successfully done setting workspace for the tool. 
+18:53:54 DEBUG : Logs will be stored at '/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/IDE.log'.
+18:53:55 INFO  : Launching XSCT server: xsct -n  -interactive /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/temp_xsdb_launch_script.tcl
+18:53:57 INFO  : Platform repository initialization has completed.
+18:53:57 INFO  : Registering command handlers for Vitis TCF services
+18:53:58 INFO  : XSCT server has started successfully.
+18:53:58 INFO  : plnx-install-location is set to ''
+18:53:59 INFO  : Successfully done setting XSCT server connection channel  
+18:53:59 INFO  : Successfully done query RDI_DATADIR 
+18:53:59 INFO  : Successfully done setting workspace for the tool. 
+18:58:23 INFO  : Result from executing command 'getProjects': ZyboZ7_DMA_Platform
+18:58:23 INFO  : Result from executing command 'getPlatforms': ZyboZ7_DMA_Platform|/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/ZyboZ7_DMA_Platform.xpfm;xilinx_zcu102_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_202210_1/xilinx_zcu102_base_202210_1.xpfm;xilinx_zcu102_base_dfx_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu102_base_dfx_202210_1/xilinx_zcu102_base_dfx_202210_1.xpfm;xilinx_zcu104_base_202210_1|/tools/Xilinx/Vitis/2022.1/base_platforms/xilinx_zcu104_base_202210_1/xilinx_zcu104_base_202210_1.xpfm

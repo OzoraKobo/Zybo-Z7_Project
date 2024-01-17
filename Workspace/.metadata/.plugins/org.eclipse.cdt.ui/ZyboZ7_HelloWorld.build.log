@@ -1,0 +1,28 @@
+12:05:04 **** Incremental Build of configuration Debug for project ZyboZ7_HelloWorld ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 Linux gcc compiler
+arm-linux-gnueabihf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:361:32: warning: unused variable 'diff_nsec' [-Wunused-variable]
+  361 |                 long diff_sec, diff_nsec;
+      |                                ^~~~~~~~~
+../src/helloworld.c:361:22: warning: unused variable 'diff_sec' [-Wunused-variable]
+  361 |                 long diff_sec, diff_nsec;
+      |                      ^~~~~~~~
+Finished building: ../src/helloworld.c
+ 
+Building target: ZyboZ7_HelloWorld.elf
+Invoking: ARM v7 Linux gcc linker
+arm-linux-gnueabihf-gcc  -o "ZyboZ7_HelloWorld.elf"  ./src/helloworld.o   
+Finished building target: ZyboZ7_HelloWorld.elf
+ 
+Invoking: ARM v7 Linux Print Size
+arm-linux-gnueabihf-size ZyboZ7_HelloWorld.elf  |tee "ZyboZ7_HelloWorld.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   6158	    340	      4	   6502	   1966	ZyboZ7_HelloWorld.elf
+Finished building: ZyboZ7_HelloWorld.elf.size
+ 
+
+12:05:04 Build Finished (took 313ms)
+

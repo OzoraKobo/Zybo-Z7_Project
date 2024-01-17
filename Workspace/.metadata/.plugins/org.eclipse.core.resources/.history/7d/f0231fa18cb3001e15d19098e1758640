@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ZyboZ7_HelloWorld" location="/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_HelloWorld" platform="/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/ZyboZ7_DMA_Platform.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" systemProject="ZyboZ7_HelloWorld_system" sysConfig="ZyboZ7_DMA_Platform" runtime="C/C++" cpu="Linux_Domain" cpuInstance="cortex-a9" os="linux">
+  <configuration name="Debug" id="xilinx.gnu.armv7.linux.exe.debug.1976664442">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.linux.exe.release.827806510" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="linux_hello_world"/>
+</sdkproject:SdkProject>

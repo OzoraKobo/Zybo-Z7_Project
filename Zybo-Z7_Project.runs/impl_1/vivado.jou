@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Jan 15 19:20:43 2024
+# Process ID: 26755
+# Current directory: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/impl_1
+# Command line: vivado -log ZyboZ7_design_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source ZyboZ7_design_wrapper.tcl -notrace
+# Log file: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/impl_1/ZyboZ7_design_wrapper.vdi
+# Journal file: /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Zybo-Z7_Project.runs/impl_1/vivado.jou
+# Running On: DESKTOP-H3CE8QA, OS: Linux, CPU Frequency: 3600.058 MHz, CPU Physical cores: 12, Host memory: 16732 MB
+#-----------------------------------------------------------
+source ZyboZ7_design_wrapper.tcl -notrace

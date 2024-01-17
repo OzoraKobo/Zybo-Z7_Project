@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="ZyboZ7_HelloWorld_system" platform="/home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/ZyboZ7_DMA_Platform.xpfm" platformUID="xilinx:zybo-z7-20::0.0(custom)" sysConfig="ZyboZ7_DMA_Platform" runtime="C/C++" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1189235296">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="ZyboZ7_HelloWorld" domainName="Linux_Domain" domainPrettyName="Linux_Domain" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.727494772">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="ZyboZ7_HelloWorld" domainName="Linux_Domain" domainPrettyName="Linux_Domain" appBuildConfig="Release"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

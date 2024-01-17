@@ -1,0 +1,21 @@
+12:37:49 **** Build of configuration Debug for project HelloWorld ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 Linux gcc compiler
+arm-linux-gnueabihf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building target: HelloWorld.elf
+Invoking: ARM v7 Linux gcc linker
+arm-linux-gnueabihf-gcc  -o "HelloWorld.elf"  ./src/helloworld.o   
+Finished building target: HelloWorld.elf
+ 
+Invoking: ARM v7 Linux Print Size
+arm-linux-gnueabihf-size HelloWorld.elf  |tee "HelloWorld.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   1302	    308	      4	   1614	    64e	HelloWorld.elf
+Finished building: HelloWorld.elf.size
+ 
+
+12:37:50 Build Finished (took 315ms)
+

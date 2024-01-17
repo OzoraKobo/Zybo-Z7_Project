@@ -1,0 +1,8 @@
+TRACE::2024-01-14.12:47:12::SCWLinux::Copying the qemu file from  /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/resources/ZyboZ7_DMA_Platform/Linux_Domain/qemu_args.txt To /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/sw/ZyboZ7_DMA_Platform/qemu/
+TRACE::2024-01-14.12:47:12::SCWLinux::Copying the qemu file from  /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/resources/ZyboZ7_DMA_Platform/Linux_Domain/qemu_args.txt To /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/sw/ZyboZ7_DMA_Platform/Linux_Domain/qemu/
+TRACE::2024-01-14.12:47:12::SCWLinux:: Copying the user libraries. 
+TRACE::2024-01-14.12:47:12::SCWLinux::Skipping the Petalinux build as image is already given.
+TRACE::2024-01-15.18:58:23::SCWLinux::Copying the qemu file from  /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/resources/ZyboZ7_DMA_Platform/Linux_Domain/qemu_args.txt To /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/sw/ZyboZ7_DMA_Platform/qemu/
+TRACE::2024-01-15.18:58:23::SCWLinux::Copying the qemu file from  /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/resources/ZyboZ7_DMA_Platform/Linux_Domain/qemu_args.txt To /home/ozorakobo/Zybo-Z7/Zybo-Z7_Project/Workspace/ZyboZ7_DMA_Platform/export/ZyboZ7_DMA_Platform/sw/ZyboZ7_DMA_Platform/Linux_Domain/qemu/
+TRACE::2024-01-15.18:58:23::SCWLinux:: Copying the user libraries. 
+TRACE::2024-01-15.18:58:23::SCWLinux::Skipping the Petalinux build as image is already given.
